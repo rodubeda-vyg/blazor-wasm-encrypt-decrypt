@@ -1,0 +1,1 @@
+# blazor-wasm-encrypt-decrypt
