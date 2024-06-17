@@ -1,0 +1,14 @@
+D:\test-net8\testjwt\KeyGet\bin\Debug\net8.0\KeyGet.exe
+D:\test-net8\testjwt\KeyGet\bin\Debug\net8.0\KeyGet.deps.json
+D:\test-net8\testjwt\KeyGet\bin\Debug\net8.0\KeyGet.runtimeconfig.json
+D:\test-net8\testjwt\KeyGet\bin\Debug\net8.0\KeyGet.dll
+D:\test-net8\testjwt\KeyGet\bin\Debug\net8.0\KeyGet.pdb
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\KeyGet.GeneratedMSBuildEditorConfig.editorconfig
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\KeyGet.AssemblyInfoInputs.cache
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\KeyGet.AssemblyInfo.cs
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\KeyGet.csproj.CoreCompileInputs.cache
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\KeyGet.dll
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\refint\KeyGet.dll
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\KeyGet.pdb
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\KeyGet.genruntimeconfig.cache
+D:\test-net8\testjwt\KeyGet\obj\Debug\net8.0\ref\KeyGet.dll

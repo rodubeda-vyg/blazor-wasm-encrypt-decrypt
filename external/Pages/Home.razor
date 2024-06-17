@@ -1,0 +1,19 @@
+﻿@page "/"
+@inject Service _Service
+
+<PageTitle>Home</PageTitle>
+Welcome to your new app.
+
+<h1>Hello, world!</h1>
+<p>Encrypt = @result</p>
+<p>Dencrypt = @decrypted</p>
+
+@code {
+    public string result { get; set; }
+    public string decrypted { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        result = await _Service.Encrypt("Hello, world!");
+        decrypted = await _Service.Decrypt(result);
+    }
+}
